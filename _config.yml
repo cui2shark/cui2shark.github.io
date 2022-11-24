@@ -1,7 +1,7 @@
 # Site settings
 title: cui2shark
 SEOTitle: 脆脆鲨的空间
-header-img: img/post-bg-desk.jpg
+header-img: img/etc/post-bg-desk.jpg
 email: cuicuishark@whu.edu.cn
 description: "信息安全在读"
 keyword: ""
@@ -12,7 +12,7 @@ github_repo: "https://github.com/cui2shark/cui2shark.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-cui2shark-gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/etc/about-cui2shark-gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
