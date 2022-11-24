@@ -3,7 +3,7 @@ title: cui2shark
 SEOTitle: 脆脆鲨的空间
 header-img: img/etc/post-bg-desk.jpg
 email: cuicuishark@whu.edu.cn
-description: "信息安全在读"
+description: "cui2shark's blog"
 keyword: ""
 url: "http://cui2shark.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/cui2shark/cui2shark.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "信息安全在读"
 sidebar-avatar: /img/etc/about-cui2shark-gentle.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
