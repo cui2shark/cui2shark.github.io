@@ -101,8 +101,8 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },
+    # {
+    #     title: "WY",
+    #     href: "http://zhengwuyang.com"
+    # },
 ]
